@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Logo from '../public/gov.png';
-import { consultarPlaca } from "placa-fipe-api";
+import { consultarPlaca } from "../public/index.js";
 import './App.css';
 
 function App() {
